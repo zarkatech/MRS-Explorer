@@ -1,5 +1,5 @@
 # MRS-Explorer
-# PowerShell script which renders a GUI for retrieving, auditing, and analyzing Exchange and Exchange Online (Office 365) move request reports from serialized XML data.
+## PowerShell script which renders a GUI for retrieving, auditing, and analyzing Exchange and Exchange Online (Office 365) move request reports from serialized XML data.
 
 As an Exchange and Office 365 delivery consultant, I am often asked to troubleshoot mailbox migrations to help identify why move requests stall or fail.  When using the native Mailbox Replication Service (MRS) for local, cross-forest, or hybrid moves the summary report offers some useful clues but is usually vague and generic for identifying specific issues.  As a result, I often parse the detailed move report using PowerShell or ask a customer to export it to XML for further analysis.
 
