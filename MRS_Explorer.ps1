@@ -1,7 +1,7 @@
 ﻿$ScriptInfo = @"
 ================================================================================
 MRS_Explorer.ps1 | v1.3
-by Roman Zarka
+by Roman Zarka | github.com/zarkatech
 ================================================================================
 SAMPLE SCRIPT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
 "@
