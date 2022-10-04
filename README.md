@@ -8,7 +8,6 @@ There is actually quite a bit of valuable logging and debug information stored i
 * Download the script and run it from a local PowerShell console or a connected Exchange remote PowerShell session.
 * You may need to set the PowerShell execution policy and/or unblock the script on the file properties after download.
 * Script can establish a remote PowerShell session to query Exchange move requests in real-time.  Otherwise, manually export move request XML files for analysis by running the following command from an established Exchange Management Shell or Exchange Online session:
-
 ```Get-MoveRequestStatistics username -IncludeReport | Export-CliXml filename.xml```
 * To use ADAL/MFA in Exchange Online, connect to remote PowerShell first and then run script from the established session.
 
