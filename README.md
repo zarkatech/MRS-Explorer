@@ -11,4 +11,4 @@ There is actually quite a bit of valuable logging and debug information stored i
 ```Get-MoveRequestStatistics username -IncludeReport | Export-CliXml filename.xml```
 * To use ADAL/MFA in Exchange Online, connect to remote PowerShell first and then run script from the established session.
 
-![Screenshot](https://blog.zarka.com/uploads/1718642234605.png)
+![Screenshot](https://zarka.com/uploads/1718642234605.png)
